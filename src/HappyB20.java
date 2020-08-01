@@ -5,6 +5,8 @@ public class HappyB20 {
         System.out.println("Never underestimate yourself. You can do much more than you think you can.");
         System.out.println("Believe in yourself!");
 
+        System.out.println("This is Git Class, yo!");
+        System.out.println(" :) ");
 
 
 
