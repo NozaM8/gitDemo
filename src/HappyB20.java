@@ -8,6 +8,9 @@ public class HappyB20 {
         System.out.println("This is Git Class, yo!");
         System.out.println(" :) ");
 
+        
+        
+        //now making changes in this class from GitHub. Practicing more and more, lol. See ya later, alligator! ^~^
 
 
 
